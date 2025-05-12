@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: general-circulation-and-upscale-effects-cookbook-dev
 channels:
   - conda-forge
 dependencies:

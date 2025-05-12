@@ -1,9 +1,9 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# (General Circulation and Upscale Effects) Cookbook
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
+[![nightly-build](https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
@@ -18,8 +18,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/general-circulation-and-upscale-effects-cookbook" />
 </a>
 
 ## Structure
@@ -64,22 +64,21 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `general-circulation-and-upscale-effects-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd general-circulation-and-upscale-effects-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate general-circulation-and-upscale-effects-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash
