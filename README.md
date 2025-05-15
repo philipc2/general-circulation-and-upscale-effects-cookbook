@@ -1,6 +1,6 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (General Circulation and Upscale Effects) Cookbook
+# General Circulation and Upscale Effects Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/general-circulation-and-upscale-effects-cookbook-/main?labpath=notebooks)
